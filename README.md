@@ -1,2 +1,1 @@
 # webinar-akademis
-webinar akademik
